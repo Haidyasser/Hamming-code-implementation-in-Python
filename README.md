@@ -15,7 +15,7 @@
 python3 main.py
 ```
 
-#Code
-###Importing the required libraries
+# Code
+### Importing the required libraries
 import math
 
